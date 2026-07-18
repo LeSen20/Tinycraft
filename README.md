@@ -1,6 +1,6 @@
 # Tinycraft
 
-Ein interaktives, webbasiertes Kartentool für React, das speziell für das Planen, Navigieren und Verwalten von Clan-Gebieten auf einem festen Minecraft-Server-Seed (5735029043448367245) entwickelt wurde. 
+Ein interaktives, webbasiertes Kartentool für React, das speziell für das Planen, Navigieren und Verwalten von Clan-Gebieten auf einem festen Minecraft-Server entwickelt wurde. 
 
 Das Tool ermöglicht den nahtlosen Wechsel zwischen der Oberwelt und dem Nether inklusive automatischer Koordinatenumrechnung (1:8).
 
